@@ -1,2 +1,2 @@
-Git is a kind of version controller;demaxiya
-Git is free;hahahah
+Git is a kind of version controller;
+Git is free;
