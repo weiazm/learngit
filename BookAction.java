@@ -1,4 +1,4 @@
-package struts2;
+package struts2;//It's my package;
 
 import java.awt.print.Book;
 import java.util.ArrayList;
